@@ -24,3 +24,8 @@ Constraints:
     6.1. If stack is empty, then I just append the current index for it to become a new boundary.
     
     6.2. If stack is not empty, I calculate maximum = max(maximum, i - stack[-1]).
+
+## Verdict:
+I solved the problem with contraints.
+1. Time: O(n) 
+2. Space: O(n)
